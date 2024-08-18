@@ -1,5 +1,5 @@
 .toggle {
-  background: #0916d4;
+  background: #afda7a;
   position: absolute;
   top: 96px;
   right: -16px;
@@ -17,7 +17,7 @@
 }
 
 .toggle:hover {
-  background-color: #009dff;
+  background-color: #77a53e;
   color: #000000;
 }
 
@@ -28,6 +28,6 @@
 }
 
 .toggle svg:hover {
-  background-color: #009dff;
+  background-color: #77a53e;
   color: #000000;
 }
