@@ -1,0 +1,33 @@
+.toggle {
+  background: #0916d4;
+  position: absolute;
+  top: 96px;
+  right: -16px;
+  outline: none;
+  border: none;
+  border-radius: 100%;
+  height: 32px;
+  width: 32px;
+  padding: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: #fff;
+  cursor: pointer;
+}
+
+.toggle:hover {
+  background-color: #009dff;
+  color: #000000;
+}
+
+.toggle svg {
+  color: #fff;
+  height: 16px;
+  width: 16px;
+}
+
+.toggle svg:hover {
+  background-color: #009dff;
+  color: #000000;
+}

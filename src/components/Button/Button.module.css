@@ -1,0 +1,42 @@
+.button {
+  align-items: center;
+  border: none;
+  color: white;
+  cursor: pointer;
+  display: flex;
+  font-family: Montserrat;
+  font-size: 14px;
+  font-weight: 700;
+  gap: 8px;
+  line-height: 24px;
+  max-width: fit-content;
+  letter-spacing: 1.25px;
+  outline: none;
+  padding: 6px 16px;
+  text-align: center;
+  text-transform: uppercase;
+}
+
+.primary {
+  background: #0916d4;
+}
+
+.primary:hover {
+  background-color: #009dff;
+  color: #000000;
+}
+
+.secondary {
+  background: #0916d4;
+}
+
+.secondary:hover {
+  background-color: #009dff;
+  color: #000000;
+}
+
+.icon {
+  background: transparent;
+  padding: 9px;
+  color: #d40909;
+}
