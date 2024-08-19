@@ -6,11 +6,7 @@ body {
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   color: #010101;
-  background: linear-gradient(
-    180deg,
-    rgba(37, 249, 213, 0.8),
-    rgba(39, 201, 174, 0.8)
-  );
+  background: linear-gradient(180deg, rgb(176, 232, 108), rgb(122, 158, 78));
 }
 
 code {
@@ -45,12 +41,12 @@ code {
   outline: none;
   border: none;
   padding: 0;
-  background: rgba(25, 189, 162, 0.8);
+  background: rgb(176, 232, 108);
   color: white;
 }
 
 .button-icon:hover {
-  background-color: rgba(18, 133, 114, 0.8);
+  background-color: rgb(114, 154, 66);
   color: #000000;
 }
 
