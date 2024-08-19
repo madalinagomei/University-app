@@ -35,7 +35,7 @@
 
 .form label:has(*:required) span::after {
   content: "*";
-  color: #e53935;
+  color: #e55856;
 }
 
 .modal-form {
