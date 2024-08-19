@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/University-app/static/css/main.2fd97743.css",
+    "main.css": "/University-app/static/css/main.704750cb.css",
     "main.js": "/University-app/static/js/main.c140226f.js",
     "static/css/55.d83ed9aa.chunk.css": "/University-app/static/css/55.d83ed9aa.chunk.css",
     "static/js/55.af0c04d7.chunk.js": "/University-app/static/js/55.af0c04d7.chunk.js",
@@ -12,7 +12,7 @@
     "static/js/804.8127b353.chunk.js": "/University-app/static/js/804.8127b353.chunk.js",
     "static/media/error-404svg.svg": "/University-app/static/media/error-404svg.a35d6f1908cf15fbd5a68f279a5f52d8.svg",
     "index.html": "/University-app/index.html",
-    "main.2fd97743.css.map": "/University-app/static/css/main.2fd97743.css.map",
+    "main.704750cb.css.map": "/University-app/static/css/main.704750cb.css.map",
     "main.c140226f.js.map": "/University-app/static/js/main.c140226f.js.map",
     "55.d83ed9aa.chunk.css.map": "/University-app/static/css/55.d83ed9aa.chunk.css.map",
     "55.af0c04d7.chunk.js.map": "/University-app/static/js/55.af0c04d7.chunk.js.map",
@@ -24,7 +24,7 @@
     "804.8127b353.chunk.js.map": "/University-app/static/js/804.8127b353.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.2fd97743.css",
+    "static/css/main.704750cb.css",
     "static/js/main.c140226f.js"
   ]
 }
